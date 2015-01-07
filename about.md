@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](/assets/prof.png)
+<div class="profile-circular-image" ></div>
 
 I'm Ryan Scott, a developer out of the Midwest (Bloomington, Indiana). I primarily develop with Ruby and Rails, but I've been known to dabble in iOS, OS X, .NET (*gasp!*) and whatever else is right for the job. I started Plays With Code to share some of my projects and thoughts on code, and occasionally technology at large. 
 
