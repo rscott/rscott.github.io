@@ -2,7 +2,6 @@
 layout: post
 title:  "Styling Google Maps"
 date:   2015-01-21 23:30
-categories: design development
 ---
 Ever had a need to drop a Google Map in your design, but didn’t want Google’s default tan color scheme feeling out of place in your design? Here’s how you can customize a Google Map's style, both on embedded and static maps.
 
